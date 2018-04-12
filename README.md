@@ -39,7 +39,7 @@ Aumentar el número de visitantes desde Google Adwords, y concentrarlos en su la
 * Inexistencia de un equipo de estrategia y experiencia centrada en el usuario.
 
 ## Business Model Canvas.
-
+![businesscanvas](https://user-images.githubusercontent.com/32876178/38670871-887cf9ec-3e0f-11e8-9852-68f6e490699d.png)
 
 ## Analisis FODA.
 
@@ -148,13 +148,16 @@ A continuación, presento nuestros 3 insights más importantes.
 ![backlog](https://user-images.githubusercontent.com/32876178/38670128-8d5e19d4-3e0d-11e8-861f-58d073c7b055.png)
 
 ## Prototype.
+![sketch](https://user-images.githubusercontent.com/32876178/38670968-d542a6e6-3e0f-11e8-9594-eb01f6f505e2.jpg)
 
 ## Solución.
 ![landing](https://user-images.githubusercontent.com/32876178/38670241-d763e45a-3e0d-11e8-97cc-5bedea0258c0.png)
 
 **Formulario**
+![form](https://user-images.githubusercontent.com/32876178/38671154-3dce9d6e-3e10-11e8-8148-6474212b11a0.png)
 
 **Agradecimiento**
+![gracias](https://user-images.githubusercontent.com/32876178/38671163-47a0bf70-3e10-11e8-8c38-6e760982b3e0.png)
 
 Laboratoria 2018.
 
