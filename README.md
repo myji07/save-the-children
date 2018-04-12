@@ -1,4 +1,5 @@
 # SAVE THE CHILDREN - Mexico
+![save the children](https://user-images.githubusercontent.com/32876178/38670012-4d802a46-3e0d-11e8-94f8-90c38d6b8dd1.png)
 
 Es una organización no gubernamental (ONG), fundada en 1919, por Eglantyne Jebb para ayudar a los millones de niños refugiados y desplazados. Actualmente está presente en 120 países en los que desarrolla programas relacionados con la salud, nutrición, atención en emergencias, violencia, calidad educativa, explotación laboral infantil y VIH/SIDA, entre otros.
 
@@ -92,8 +93,10 @@ Temporada electoral que puede dificultad el uso de recursos provenientes de inst
 * La información de la organización en la página es presentada de forma larga y de dificl lectura.
 
 ## User-persona.
+![user](https://user-images.githubusercontent.com/32876178/38670069-6e96b9f2-3e0d-11e8-9f00-dca1d2cac32b.png)
 
 ## Customer Journey Map.
+![journey](https://user-images.githubusercontent.com/32876178/38670031-5d477380-3e0d-11e8-9341-c162868d58bb.png)
 
 ## Análisis PARETO.
 
@@ -130,6 +133,8 @@ A partir de los proceso anteriores, pudimos comenzar a analizar a nuestros usuar
 https://invis.io/26GCC2Y8VTR
 
 Finalmente para terminar de analizar a nuestro usuario, les hicimos una encuesta.
+![encuesta](https://user-images.githubusercontent.com/32876178/38670084-7950617c-3e0d-11e8-9492-c5bf7137254d.png)
+![encuesta2](https://user-images.githubusercontent.com/32876178/38670099-82ba2c2a-3e0d-11e8-9f37-21a6cae6e019.png)
 
 ## Insights.
 
@@ -140,10 +145,12 @@ A continuación, presento nuestros 3 insights más importantes.
 * Para el 68% de los usuarios, es importante sentir cómo impacta su donativo en la vida de los pequeños.
 
 ## Backlog.
+![backlog](https://user-images.githubusercontent.com/32876178/38670128-8d5e19d4-3e0d-11e8-861f-58d073c7b055.png)
 
 ## Prototype.
 
 ## Solución.
+![landing](https://user-images.githubusercontent.com/32876178/38670241-d763e45a-3e0d-11e8-97cc-5bedea0258c0.png)
 
 **Formulario**
 
