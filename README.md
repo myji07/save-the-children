@@ -1,31 +1,45 @@
-# SAVE THE CHILDREN - México
+# SAVE THE CHILDREN - Mexico
 ![save-the-children](https://user-images.githubusercontent.com/32876178/38587450-198efe8c-3ce7-11e8-8678-afbb9473af89.png)
+Es una organización no gubernamental (ONG), fundada en 1919, por Eglantyne Jebb para ayudar a los millones de niños refugiados y desplazados. Actualmente está presente en 120 países en los que desarrolla programas relacionados con la salud, nutrición, atención en emergencias, violencia, calidad educativa, explotación laboral infantil y VIH/SIDA, entre otros.
+
 ## Integrantes.
 
 Elzbeth Blanco as Product Owner.
+
 Tania Sosa as UX Researcher.
+
 Karina Quezada as UX Researcher.
+
 Jazmin Solis as UX Researcher.
+
 Carmen Vega as UX Designer.
+
 Adriana Dillarza as UX Designer.
 
-## Necesidad.
+## Objetivo.
 
-Actualmente la donación a través de la página de internet por visitantes atraídos con la publicidad pagada de Google es una experiencia que puede mejorar porque el servicio se ha enfocado en conseguir que instituciones de renombre puedan unirse a la causa y su estrategia ahora, más que tener un canal sólido y conductor en la web, parece que se concentran en el sector empresarial.
+Generar donantes recurrentes a través del journey que hace un usuario a través de la landing page.
+http://apoyo.savethechildren.mx/
 
-Cuando las necesidades principales de los usuarios realmente son u nirse a una institución que muestre sus valores humanos y que le muestre un canal construido con base en la confianza y fidelidad del propósito final.
+## Estrategia. (Objetivo SMART)
 
-Entre quienes más brindan actualmente este servicio  destacan (quién es la competencia):
-UNICEF, especialmente en México, Un kilo de ayuda.
+Aumentar el número de visitantes desde Google Adwords, y concentrarlos en su landing page, en un plazo de 3 meses.
 
-Porque (que hace la competencia mejor que nosotros actualmente):
-Construir un canal confiable y cálido con los donantes, mantenerlos al tanto del progreso de su intención de ayudar, me refiero a que al donar o apadrinar a un niño, la competencia les manda un progreso de lo que el dinero de los donantes está haciendo, lo cual genera una mejor sensación en el donante y lo impulsa a seguir contribuyendo.
+## Problema.
 
-Pero les falta: (en qué superamos o podemos superar a la competencia):
-Ese acercamiento con empresas para unirse a esa lucha social.
+*Las imágenes no son empáticas y transmiten el mensaje erróneo a la audiencia.
+*Su formulario no tiene filtro de seguridad.
+*Copys demasiado extensos, lo que ocasiona que los usuarios pierdan el interés en leer la información e historia de STC.
 
-Nuestra página cubre esa necesidad porque:
-Muchos de los mensajes son con un objetivo que va por encima de los donadores.
+## Causas.
 
-Nuestro enfoque inicial está dirigido hacia (perfil de usuario):
-Donadores, gente común que se anime a donar
+*Desconocimiento del sector al que se debe dirigir la organización.
+*Falta de equipo de desarrollo web.
+*Inexistencia de un equipo de estrategia y experiencia centrada en el usuario.
+
+## Business Model Canvas.
+
+![save-the-children](STC - Banco de Imagenes/businesscanvas.png)
+
+## Analisis FODA.
+
