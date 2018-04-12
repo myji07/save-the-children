@@ -1,5 +1,14 @@
 # SAVE THE CHILDREN - México
 ![save-the-children](https://user-images.githubusercontent.com/32876178/38587450-198efe8c-3ce7-11e8-8678-afbb9473af89.png)
+## Integrantes.
+
+Elzbeth Blanco as Product Owner.
+Tania Sosa as UX Researcher.
+Karina Quezada as UX Researcher.
+Jazmin Solis as UX Researcher.
+Carmen Vega as UX Designer.
+Adriana Dillarza as UX Designer.
+
 ## Necesidad.
 
 Actualmente la donación a través de la página de internet por visitantes atraídos con la publicidad pagada de Google es una experiencia que puede mejorar porque el servicio se ha enfocado en conseguir que instituciones de renombre puedan unirse a la causa y su estrategia ahora, más que tener un canal sólido y conductor en la web, parece que se concentran en el sector empresarial.
